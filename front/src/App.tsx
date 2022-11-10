@@ -7,7 +7,7 @@ function App() {
 
 	return (
 		<div className="App">
-			 <h1>IP Camera Streaming</h1>
+			 <h1>Streaming url</h1>
       		URL : http://localhost:4000/output.m3u8
 			<div>
 			<ReactPlayer 

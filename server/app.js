@@ -1,6 +1,6 @@
 
 const ffmpeg = require("fluent-ffmpeg");
-const audio = './audio/files/music.mp3';
+const audio = 'https://d2dpaowuivcmaz.cloudfront.net/halison-paix-o/musicas/lps/x-ddt/02.-tudo-mentira.mp3';
 const output = './audio/files/file%d.ts';
 const playlist = './audio/files/output.m3u8';
 
